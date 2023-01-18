@@ -102,7 +102,6 @@ class Main:
 			else:
 				key = ("\033[0;97m -")
 				stat = ("\033[0;97mFREE USER")
-				FY = '\033[0;90m
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
